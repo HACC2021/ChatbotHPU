@@ -1,6 +1,6 @@
 # ChatbotHPU
 
-Development of a video-based chatbot, which can be implemented into the website via widget. The chatbot os created on a free No-Code / Low-Code Tool.
+Development of a video-based chatbot, which can be implemented into the website via widget. The chatbot is created on a free No-Code / Low-Code Tool.
 
 1. Development of the chatbot:
  
@@ -8,6 +8,8 @@ Development of a video-based chatbot, which can be implemented into the website 
  - Recording of videos, which interactively guides the website visitor to the right answer to his problem 
  - Customize look and feel of the chatbot on the website (optimize UI)
  - Set rules and triggers (Set widget on specific pages, optimize UX)
+
+--> the optimization and development of the chatbot takes place with a free no-code/low-code software and not in GitHub
 
 2. Development of the website:
 
