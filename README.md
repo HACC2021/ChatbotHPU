@@ -19,3 +19,7 @@ Development of a video-based chatbot, which can be implemented into the website 
 
 - Finalize the prototype of how it could be implemented and would look on the current website
 
+Prototype: https://player.gotolstoy.com/xh3hxhjeqrkuf
+
+--> videos are just being recorded, this link is just to have an idea of our chatbot
+
